@@ -10,7 +10,7 @@ def _read(fname):
 
 setup(
     name="ansible-vault",
-    version="2.0.0b1",
+    version="2.0.1",
     author="Tomohiro NAKAMURA",
     author_email="quickness.net@gmail.com",
     url="https://github.com/tomoh1r/ansible-vault",
